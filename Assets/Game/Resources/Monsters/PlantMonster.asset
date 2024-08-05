@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10fa00922f5aeae41807356fabfdc654, type: 3}
+  m_Name: PlantMonster
+  m_EditorClassIdentifier: 
+  monsterName: Splif
+  monsterDescription: 
+  frontSprite: {fileID: -303578085, guid: 3850694a2c3723047b1db8620f0dabe0, type: 3}
+  backSprite: {fileID: -2084933500, guid: 1e37d0641d4d10c44b3c0b6d5d181be7, type: 3}
+  monsterType: 2
+  maxHP: 45
+  atk: 49
+  def: 49
+  specialAttack: 65
+  specialDefence: 65
+  spd: 45
+  expYield: 100
+  monsterGrowthRate: 0
+  monsterCatchChance: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: 9ebe96f58687908499c0f3eeb792b537, type: 2}
+    lvl: 0
+  - moveBase: {fileID: 11400000, guid: 656885e6a0ae0a7429aaec9cacae335d, type: 2}
+    lvl: 4
+  - moveBase: {fileID: 11400000, guid: 6a46c3a2dea2c694190c63104b41acd9, type: 2}
+    lvl: 10
+  - moveBase: {fileID: 11400000, guid: 818b9f7d81346a24d9ad36bf70c74ce1, type: 2}
+    lvl: 16

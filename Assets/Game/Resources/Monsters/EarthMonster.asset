@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10fa00922f5aeae41807356fabfdc654, type: 3}
+  m_Name: EarthMonster
+  m_EditorClassIdentifier: 
+  monsterName: Mr.Stoned
+  monsterDescription: 
+  frontSprite: {fileID: -870574593, guid: e296f834b3dfa63428bb4eee3ae3fe17, type: 3}
+  backSprite: {fileID: -333326761, guid: fbe050d166466c542b21c3aec1ca9795, type: 3}
+  monsterType: 3
+  maxHP: 50
+  atk: 35
+  def: 85
+  specialAttack: 20
+  specialDefence: 70
+  spd: 40
+  expYield: 100
+  monsterGrowthRate: 0
+  monsterCatchChance: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c237771267a94fd43b6f9294156ff2bf, type: 2}
+    lvl: 0
+  - moveBase: {fileID: 11400000, guid: 1c6365d5fbd40eb49852fca19c773ed8, type: 2}
+    lvl: 4
+  - moveBase: {fileID: 11400000, guid: 516d369435be0fd4db5927268df4c0cf, type: 2}
+    lvl: 10
+  - moveBase: {fileID: 11400000, guid: f0226fef3fd6f8741ba84072570c721c, type: 2}
+    lvl: 16

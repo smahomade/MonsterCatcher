@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10fa00922f5aeae41807356fabfdc654, type: 3}
+  m_Name: FireMonster
+  m_EditorClassIdentifier: 
+  monsterName: Egg'det
+  monsterDescription: 
+  frontSprite: {fileID: 1383862658, guid: e3ac1801a9f5b234ab8a486820c0e9e7, type: 3}
+  backSprite: {fileID: 1007445943, guid: 316e38c9af5009e43b1e6e18b742b5b4, type: 3}
+  monsterType: 1
+  maxHP: 39
+  atk: 52
+  def: 43
+  specialAttack: 60
+  specialDefence: 50
+  spd: 65
+  expYield: 100
+  monsterGrowthRate: 0
+  monsterCatchChance: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c237771267a94fd43b6f9294156ff2bf, type: 2}
+    lvl: 0
+  - moveBase: {fileID: 11400000, guid: 1162a681e32f4394b803ca92fc28c2e2, type: 2}
+    lvl: 4
+  - moveBase: {fileID: 11400000, guid: 80d257ac36fe8884c8bd44275a1848fc, type: 2}
+    lvl: 10
+  - moveBase: {fileID: 11400000, guid: 66d35d258855ab34c8bc45aec7fcd02c, type: 2}
+    lvl: 16

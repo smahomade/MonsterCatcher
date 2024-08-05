@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Fences
+  - Objects
+  - WildGrass
+  - Interactable
+  - Hero
+  - FovLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 459607483
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2562238817
+    locked: 0
+  - name: Hero
+    uniqueID: 1728952967
+    locked: 0
+  - name: Battle
+    uniqueID: 76266181
+    locked: 0

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10fa00922f5aeae41807356fabfdc654, type: 3}
+  m_Name: WindMonster
+  m_EditorClassIdentifier: 
+  monsterName: Mally
+  monsterDescription: 
+  frontSprite: {fileID: 1920998612, guid: 32a0c41ebab3ce34d8476d681ab29b2b, type: 3}
+  backSprite: {fileID: 1277989264, guid: 4184056bd26ca454fba0c69d9f35dbd2, type: 3}
+  monsterType: 0
+  maxHP: 45
+  atk: 55
+  def: 35
+  specialAttack: 70
+  specialDefence: 20
+  spd: 80
+  expYield: 100
+  monsterGrowthRate: 0
+  monsterCatchChance: 255
+  learnableMoves:
+  - moveBase: {fileID: 11400000, guid: c237771267a94fd43b6f9294156ff2bf, type: 2}
+    lvl: 0
+  - moveBase: {fileID: 11400000, guid: f81e1656135514b4db4c913000575614, type: 2}
+    lvl: 4
+  - moveBase: {fileID: 11400000, guid: f2731195a88787b4eb08e568c5bcee8c, type: 2}
+    lvl: 10
+  - moveBase: {fileID: 11400000, guid: f2b80f07ba969bb41b4bdbc8de05640f, type: 2}
+    lvl: 16
