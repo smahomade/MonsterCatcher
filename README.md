@@ -1,3 +1,3 @@
-This is the Unity Game that i made for my final project in my third year at City University. I really enjoyed making this game and still plan to progress it.
+This is the Unity game I developed for my final project in my third year at City University. Creating this game was an enjoyable experience, and I plan to continue improving it. The game is a Pokémon-style survival adventure, where the monsters grow increasingly stronger as the game progresses.
 
-NOTE: PLEASE NOTE THAT SOME ASSETS ARE DRAWN BY ME USING AESPRITE PXIEL ART AND SOME OTHER ASSETS E.G. SOUND, PLAYERS AND ETC ARE EITHER FREE OR BOUGHT BY ME IN THE UNITY STORE! 
+NOTE: Some assets in this game were created by me using Aseprite for pixel art, while other assets (e.g., sounds, characters, etc.) were either obtained for free or purchased from the Unity Store. This game was created for educational purposes only
