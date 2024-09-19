@@ -1,5 +1,5 @@
 ## About
-This project is a game called Monster Catcher, its a 2D Pokemon turn-based game. This was my Dissertation Project madde in Unity using C# and Visual Studios, some assets were Drawn by me using Aesprite (Pokemons, Grass and Buildings) and other assets were either bought or free in the Unity store (Platforms, Characters and UI Menu). The game has similarties to the pokemon games however, this is a Survival Game, as the time goes on the monsters get stronger.
+This project is a game called Monster Catcher, its a 2D Pokemon turn-based game. This was my Dissertation Project made in Unity using C# and Visual Studios, some assets were Drawn by me using Aesprite (Pokemons, Grass and Buildings) and other assets were either bought or free in the Unity store (Platforms, Characters and UI Menu). The game has similarties to the pokemon games however, this is a Survival Game, as the time goes on the monsters get stronger.
 
 ## Instructions
 1. WASD or Arrow keys to move
